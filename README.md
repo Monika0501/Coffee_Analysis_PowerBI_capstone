@@ -15,12 +15,12 @@ Top regions: Ethiopia, Tanzania, Guatemala
 Top processing methods: Double Anaerobic Washed, Semi Washed, Honey-Mosto
 Higher altitude regions tend to produce fewer defective beans
 
-Data Cleaning & Modelling
+##Data Cleaning & Modelling
 Cleaned and transformed multiple columns (e.g., Altitude, Bag Weight, Grading Date)
 Created relationships between tables for sensory analysis
 Built interactive dashboards and visualizations
 
-Visualizations
+##Visualizations
 Sensory Attributes vs Total Cup Points
 Defects Trends by Country and Processing Method
 Correlation between Attributes and Quality Scores
