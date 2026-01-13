@@ -26,8 +26,8 @@ Defects Trends by Country and Processing Method
 Correlation between Attributes and Quality Scores
 
 ## 🗂 Files Included
-Ppt_powerbi_CoffeeQualityAnalysis.pptx: Presentation of the full analysis
-README.md: This file
+** Ppt_powerbi_CoffeeQualityAnalysis.pptx: Presentation of the full analysis
+** README.md: This file
 
 🧠 Conclusion
 
