@@ -29,8 +29,7 @@ Correlation between Attributes and Quality Scores
 ** Ppt_powerbi_CoffeeQualityAnalysis.pptx: Presentation of the full analysis
 ** README.md: This file
 
-🧠 Conclusion
-
+🧠** Conclusion**
 The combination of bean variety, origin, and processing methods is critical in producing high-quality coffee.
 
 Created by: Monika Jamuna
