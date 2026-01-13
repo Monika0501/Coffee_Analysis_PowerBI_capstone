@@ -24,3 +24,14 @@ Built interactive dashboards and visualizations
 Sensory Attributes vs Total Cup Points
 Defects Trends by Country and Processing Method
 Correlation between Attributes and Quality Scores
+
+## 🗂 Files Included
+Ppt_powerbi_CoffeeQualityAnalysis.pptx: Presentation of the full analysis
+README.md: This file
+
+🧠 Conclusion
+
+The combination of bean variety, origin, and processing methods is critical in producing high-quality coffee.
+
+Created by: Monika Jamuna
+Email: Jamunamonika96@gmail.com contact no : +91 9494661553
